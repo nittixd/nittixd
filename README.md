@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm José Nicolás Nitti</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://www.upwork.com/nx/find-work/best-matches" target="_blank">José Nicolás Nitti</a></h1>
 <h3 align="center">A passionate student at the Faculty of Economic Sciences, delving into Python for data science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
@@ -8,7 +8,6 @@
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
-<img src="ruta/del/archivo/IMG_5222.JPG" alt="Banner Personalizado" style="width:100%;">
 
 - 🔭 I’m currently studying at the Faculty of Economic Sciences.
 
@@ -33,6 +32,7 @@
 
 ---
 
-Credit: [José Nicolás Nitti](https://github.com/yourusername)
+Credit: [José Nicolás Nitti](https://www.upwork.com/nx/find-work/best-matches)
 
 Last Edited on: 31/07/2024
+
