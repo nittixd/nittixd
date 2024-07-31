@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm José Nicolás Nitti</h1>
+<h3 align="center">A passionate student at the Faculty of Economic Sciences, delving into Python for data science.</h3>
 
-<!--
-**nittixd/nittixd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://twitter.com/yourusername" target="blank"><img src="https://img.shields.io/twitter/follow/yourusername?logo=twitter&style=for-the-badge" alt="yourusername" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+- 🔭 I’m currently studying at the Faculty of Economic Sciences.
+
+- 🌱 I’m currently learning in-depth Python, applied to data science.
+
+- 🤝 I’m available for freelancing with 2-3 hours per day.
+
+- 💬 Ask me about **Python, JavaScript, and HTML**.
+
+- 📫 How to reach me **nittijose14@gmail.com**.
+
+- 📄 Check out my Upwork profile: [Upwork](https://www.upwork.com/nx/find-work/best-matches).
+
+- 🌐 Connect with me:
+  - [LinkedIn](https://www.linkedin.com/in/josenicolasnitti)
+  - [Instagram](https://www.instagram.com/nitti____/)
+
+### Blogs posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+Credit: [José Nicolás Nitti](https://github.com/yourusername)
+
+Last Edited on: 31/07/2024
