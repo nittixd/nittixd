@@ -8,6 +8,7 @@
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
+<img src="ruta/del/archivo/IMG_5222.JPG" alt="Banner Personalizado" style="width:100%;">
 
 - 🔭 I’m currently studying at the Faculty of Economic Sciences.
 
