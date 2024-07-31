@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.upwork.com/nx/find-work/best-matches" target="_blank">José Nicolás Nitti</a></h1>
 <h3 align="center">A passionate student at the Faculty of Economic Sciences, delving into Python for data science.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
-
-<p align="left"> <a href="https://twitter.com/yourusername" target="blank"><img src="https://img.shields.io/twitter/follow/yourusername?logo=twitter&style=for-the-badge" alt="yourusername" /></a> </p>
-
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
